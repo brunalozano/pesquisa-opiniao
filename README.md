@@ -13,8 +13,8 @@ O programa solicita ao usuário o **nome do entrevistado**, a **idade do entrevi
 
 ## ▶️ Como executar
 
-1.Abra a pasta do projeto no Visual Studio Code.
-2.Abra o arquivo `app.py`.
-3.Clique no botão "Executar" localizado no canto superior direito do Visual Studio Code.
-4.Digite o nome, a idade e a opinião sobre o grau de satisfação do atendimento quando solicitado.
-5.Após as 50 respostas, o programa exibirá a quantidade de respostas EXCELENTE e RUIM.
+1. Abra a pasta do projeto no Visual Studio Code.
+2. Abra o arquivo `app.py`.
+3. Clique no botão "Executar" localizado no canto superior direito do Visual Studio Code.
+4. Digite o nome, a idade e a opinião sobre o grau de satisfação do atendimento quando solicitado.
+5. Após as 50 respostas, o programa exibirá a quantidade de respostas EXCELENTE e RUIM.
